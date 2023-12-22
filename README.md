@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alleyoup
-- 👀 I’m interested in books, drum and 8-bit computers
+- 👀 I’m interested in books, drums and 8-bit computers
 - 🌱 I’m currently learning C++/ SFML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 alleyoup/alleyoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

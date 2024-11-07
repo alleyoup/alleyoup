@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alleyoup
 - 👀 I’m interested in books, drums and 8-bit computers
-- 🌱 I’m currently learning C++/ SFML
+- 🌱 I’m currently learning C++/ SFML/Godot/Aseprite
 - 💞️ I’m looking to collaborate on ...
 
 <!---
